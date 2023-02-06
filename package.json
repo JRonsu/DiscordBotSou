@@ -1,0 +1,23 @@
+{
+  "name": "discordbotsou",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRonsu/DiscordBotSou.git"
+  },
+  "author": "Ronsou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRonsu/DiscordBotSou/issues"
+  },
+  "homepage": "https://github.com/JRonsu/DiscordBotSou#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
